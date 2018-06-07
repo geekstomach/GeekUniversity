@@ -1,8 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="923207a1-e9f5-42ae-88fb-f0f62dff226a" name="Default" comment="">
+    <list default="true" id="923207a1-e9f5-42ae-88fb-f0f62dff226a" name="Default" comment="Collected all in together 02/04/18">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/XE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_23_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaGramm/ReadMe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaGramm/main.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaGramm/src/client/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaGramm/src/client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaGramm/src/client/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaGramm/src/server/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaGramm/src/server/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaGramm/src/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaGramm/src/server/ServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson4DZ/DimaGrammDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson4DZ/Readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5/Chairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5/Example_SB_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5/Example_SB_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/MainHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/MainHomeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/ReadMe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 2/src/Lesson6/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/UNIT 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/DZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/MainDZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/GenericTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson2/DbExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson2DZ/MainDZ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson2DZ/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson4/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson4/Lesson4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson4/Quote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/MFD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/readMe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads2v1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DimaGramm/DimaGramm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/TicTacToe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/src/TTC/TicTacToeArtem/GameWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/src/TTC/TicTacToeArtem/Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/src/TTC/TicTacToeArtem/StartNewGameWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/src/TTC/TicTacToeArtem/XoGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/src/TicTacToe/GameOfTheYear/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/src/TicTacToe/GameOfTheYear/GameWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/src/TicTacToe/GameOfTheYear/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/src/TicTacToe/GameOfTheYear/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/src/TicTacToe/GameOfTheYear/StartNewGameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/src/TicTacToe/GameOfTheYear/StartNewGameWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/src/TicTacToe/GameOfTheYear/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/src/TicTacToe/GameOfTheYear/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UNIT 1/src/Lesson4/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/UNIT 1/src/Lesson4DZ/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UNIT 1/src/Lesson4/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/UNIT 1/src/Lesson4DZ/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/GameWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/Map$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/StartNewGameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/StartNewGameWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/StartNewGameWindow$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/StartNewGameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TTC/TicTacToeArtem/XoGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/GameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/GameWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/GameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/Map$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/StartNewGameWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/StartNewGameWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/StartNewGameWindow$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/StartNewGameWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projects/TicTacToe/GameOfTheYear/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Competitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Competitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/competitors/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Cross.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Cross.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Obstacle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Obstacle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Wall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Wall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Water.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson1DZ/obstacles/Water.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/MainClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/MainClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/MyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/MyUnderException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/MyUnderException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/ReportMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2/ReportMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2DZ/MainHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2DZ/MainHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2DZ/MyArrayDataException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2DZ/MyArrayDataException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2DZ/MyArraySizeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2DZ/MyArraySizeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2DZ/MyExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UNIT 2/Lesson2DZ/MyExceptions.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +112,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DZ2table.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="main.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MFD.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/MFD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="573">
+              <caret line="42" column="32" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="threeThreads.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,16 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/UNIT 1/src/TicTacToe/GameWindow.java" />
-        <option value="$PROJECT_DIR$/UNIT 1.1/src/Lesson3/mainClass.java" />
-        <option value="$PROJECT_DIR$/UNIT 1/src/TicTacToe/StartNewGameWindow.java" />
-        <option value="$PROJECT_DIR$/UNIT 1/src/TicTacToe/Map.java" />
-        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/MainClass.java" />
-        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Course.java" />
-        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Obstacle.java" />
-        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Cross.java" />
-        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Wall.java" />
-        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Water.java" />
         <option value="$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/competitors/Team.java" />
         <option value="$PROJECT_DIR$/Projects/src/TicTacToe/GameWindow.java" />
         <option value="$PROJECT_DIR$/Projects/src/TicTacToe/GameOfTheYear/GameWindow.java" />
@@ -40,12 +180,73 @@
         <option value="$PROJECT_DIR$/UNIT 1/src/TicTacToe 2/TTTinternet/TTTGraphics2P.java" />
         <option value="$PROJECT_DIR$/UNIT 1/src/TicTacToe 2/TTTCons/TTTmy.java" />
         <option value="$PROJECT_DIR$/UNIT 1/src/TTTCons/TTTteachers.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson4/DimaGrammDesign.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson4DZ/DimaGrammDesign.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson4DZ/GimaGrammMain.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson5/Chairs.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/ReadMe" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/MainHomeEx.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/MainHomeImp.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/MainHomeSample2.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/MainHomeSample3.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/MainHomeSample.java" />
+        <option value="$PROJECT_DIR$/UNIT 2/src/Lesson5DZ/MainHome.java" />
+        <option value="$PROJECT_DIR$/DimaGramm/ReadMe" />
+        <option value="$PROJECT_DIR$/DimaGramm/src/client/Client.java" />
+        <option value="$PROJECT_DIR$/DimaGramm/src/client/Main.java" />
+        <option value="$PROJECT_DIR$/DimaGramm/src/server/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/DimaGramm/src/server/ServerMain.java" />
+        <option value="$PROJECT_DIR$/DimaGramm/src/server/Server.java" />
+        <option value="$PROJECT_DIR$/DimaGramm/src/client/Controller.java" />
+        <option value="$PROJECT_DIR$/DimaGramm/src/server/AuthService.java" />
+        <option value="$PROJECT_DIR$/DimaGramm/src/client/sample.fxml" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/DZ" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/GenericTypes.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Fruit.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Orange.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Box.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Apple.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/MainDZ.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson2DZ/README" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson2/DbExample.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson2DZ/MainDZ2.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4/DeadLock.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4/Quote.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4/Lesson4.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/readMe" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/Task3.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/MainHWL4.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/Task2.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads2.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads2v1.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads3.java" />
+        <option value="$PROJECT_DIR$/UNIT 3/src/lesson4DZ/MFD.java" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="929" />
-    <option name="height" value="1080" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1167" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -53,44 +254,91 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbrains" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/UNIT 1/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Temp/3" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UNIT 3/src/lesson2DZ/sqlite-jdbc-3.23.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="1" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\UNIT 3\src\lesson2" />
+      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\UNIT 3\src\lesson1" />
+      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\DimaGramm" />
+      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\UNIT 2\src\Lesson1" />
+      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\UNIT 1.1\.idea" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="TTTCons" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\DimaGramm\src" />
+      <recent name="D:\Distrib\Google Диск\GeekBrains\geekbrains\UNIT 2\src\Lesson5" />
       <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\Projects\src\TicTacToeArtem" />
       <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\Projects\src\TicTacToe" />
       <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\UNIT 2\src" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\UNIT 2\src\Lesson1" />
-      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\UNIT 1.1\.idea" />
-      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains\UNIT 1\src" />
-      <recent name="C:\Users\XE\Google Диск\GeekBrains\geekbrains" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson5DZ" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="server" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -105,58 +353,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TTTmy">
-    <configuration name="MainClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1DZ.MainClass" />
-      <module name="UNIT 2" />
+  <component name="RunManager">
+    <configuration name="MFD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4DZ.MFD" />
+      <module name="UNIT 3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1DZ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TTTmy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TicTacToe2.TTTmy" />
-      <module name="UNIT 1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TicTacToe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TicTacToe (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TicTacToe.TicTacToe" />
-      <module name="Projects" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TicTacToe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TTC.TicTacToeArtem.GameOfTheYear.TicTacToe" />
-      <module name="Projects" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TTC.TicTacToeArtem.GameOfTheYear.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="XoGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TTC.TicTacToeArtem.XoGUI" />
-      <module name="Projects" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TTC.TicTacToeArtem.*" />
+          <option name="PATTERN" value="lesson4DZ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,20 +416,9 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="Application.MainClass (2)" />
-      <item itemvalue="Application.TicTacToe (1)" />
-      <item itemvalue="Application.TicTacToe" />
-      <item itemvalue="Application.XoGUI" />
-      <item itemvalue="Application.TTTmy" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TTTmy" />
-        <item itemvalue="Application.XoGUI" />
-        <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.TicTacToe (1)" />
-        <item itemvalue="Application.MainClass (2)" />
+        <item itemvalue="Application.MFD" />
       </list>
     </recent_temporary>
   </component>
@@ -239,6 +432,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522672944703</updated>
+      <workItem from="1523554879638" duration="1640000" />
+      <workItem from="1523562412487" duration="1096000" />
+      <workItem from="1523636757550" duration="10000" />
+      <workItem from="1523811838195" duration="923000" />
+      <workItem from="1523813131638" duration="7913000" />
+      <workItem from="1523821426835" duration="779000" />
+      <workItem from="1523823179274" duration="48000" />
+      <workItem from="1523878098052" duration="644000" />
+      <workItem from="1523878780568" duration="421000" />
+      <workItem from="1523879621504" duration="560000" />
+      <workItem from="1523880218858" duration="304000" />
+      <workItem from="1524160322672" duration="67000" />
+      <workItem from="1527496831102" duration="12400000" />
+      <workItem from="1527749415975" duration="9142000" />
+      <workItem from="1527770034812" duration="5836000" />
+      <workItem from="1527776084491" duration="1862000" />
+      <workItem from="1527786565896" duration="1076000" />
+      <workItem from="1528354867735" duration="37000" />
+      <workItem from="1528359476760" duration="21409000" />
+      <workItem from="1528383006119" duration="1070000" />
     </task>
     <task id="LOCAL-00001" summary="Collected all in together 02/04/18">
       <created>1522684193642</created>
@@ -250,58 +463,76 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67237000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="929" height="1080" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1167" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3223754" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33404028" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5181237" side_tool="true" visible="true" weight="0.36345968" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3296582" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32979852" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48187634" weight="0.3603083" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.556962" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.47592998" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3296582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24972437" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.39884394" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="9" sideWeight="0.7538293" weight="0.32817337" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49200428" weight="0.31984586" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.3295099" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889746" weight="0.32953367" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Module Dependencies" order="4" weight="0.3296582" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.3295099" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33404028" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33656645" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.556962" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.22100656" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.3295099" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3295099" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32979852" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32979852" />
+      <window_info id="Capture Tool" order="0" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3223754" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32221064" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -346,314 +577,301 @@
     <MESSAGE value="Collected all in together 02/04/18" />
     <option name="LAST_COMMIT_MESSAGE" value="Collected all in together 02/04/18" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="58" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson3DZ/YellowPages.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/MFD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        <state relative-caret-position="714">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson3DZ/noDuplicate.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson2DZ/MainDZ2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="2375">
+          <caret line="95" column="1" lean-forward="true" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/src/TicTacToe/GameOfTheYear/TicTacToe.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson2/DbExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="900">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson2DZ/MainDZ2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2300">
+          <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson2/DbExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson2DZ/MainDZ2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson2/DbExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/DZ">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/MainDZ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/GenericTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/DZ">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/MainDZ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson1DZ/FruitBoxes/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DimaGramm/src/server/ServerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/src/TTC/TicTacToeArtem/XoGUI.java">
+    <entry file="file://$PROJECT_DIR$/DimaGramm/src/server/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="50">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson3DZ/YellowPages.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson2DZ/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson3DZ/noDuplicate.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Throwable.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/sql/ResultSet.java" />
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson2DZ/MainDZ2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="25">
+          <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/src/TicTacToe/GameOfTheYear/TicTacToe.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson2/DbExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="513">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/src/TTC/TicTacToeArtem/XoGUI.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4/DeadLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="986">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/competitors/Human.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4/Lesson4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="1105">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#953#959#0" expanded="true" />
+            <element signature="e#2670#2671#0" expanded="true" />
+            <element signature="e#2713#2714#0" expanded="true" />
+            <element signature="e#2755#2756#0" expanded="true" />
+            <element signature="e#2798#2799#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/Lesson5/Person.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4/Quote.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/Lesson5/Circle.java">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="503">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/Lesson4/MainClass.java">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="192">
+          <caret line="395" column="29" selection-start-line="395" selection-start-column="29" selection-end-line="395" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/TicTacToe/Map.java">
+    <entry file="file://$PROJECT_DIR$/textForTask2.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="41" column="2" selection-start-line="41" selection-end-line="44" selection-end-column="7" />
+        <state relative-caret-position="-114">
+          <caret line="1341" column="45" lean-forward="true" selection-start-line="1341" selection-start-column="45" selection-end-line="1341" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/Lesson5/Main.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/Task2.java" />
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/TicTacToe/StartNewGameWindow.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/readMe">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="89" column="14" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/TicTacToe/TicTacToe.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/Task3.java" />
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/MainHWL4.java" />
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson2/MyUnderException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson2/ReportMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson2DZ/MyArrayDataException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson2DZ/MyArraySizeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson2DZ/MyExceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson2DZ/MainHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson2/MyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson2/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="136">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Cross.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads2v1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Obstacle.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/MFD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="573">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/competitors/Team.java">
+    <entry file="file://$PROJECT_DIR$/UNIT 3/src/lesson4DZ/threeThreads.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Wall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Water.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/competitors/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/competitors/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/competitors/Competitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/competitors/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/competitors/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson1DZ/obstacles/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/src/TicTacToe/StartNewGameWindow.java" />
-    <entry file="file://$PROJECT_DIR$/Projects/src/TicTacToe/TicTacToe.java" />
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/TTTCons/TTTteachers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson3DZ/YellowPages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/TTTCons/TTTmy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/TicTacToe/GameWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 1/src/TTTinternet/TTTGraphics2P.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/src/TicTacToe/GameOfTheYear/TicTacToe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/src/TTC/TicTacToeArtem/XoGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UNIT 2/src/Lesson3DZ/noDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -709,7 +927,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Projects</last-edited>
+          <last-edited>geekbrains</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -734,6 +952,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>sqlite-jdbc-3.23.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

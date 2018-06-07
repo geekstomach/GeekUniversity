@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Projects/Projects.iml" filepath="$PROJECT_DIR$/Projects/Projects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Projects/TicTacToe.iml" filepath="$PROJECT_DIR$/Projects/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DimaGramm/DimaGramm.iml" filepath="$PROJECT_DIR$/DimaGramm/DimaGramm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
       <module fileurl="file://$PROJECT_DIR$/UNIT 1/UNIT 1.iml" filepath="$PROJECT_DIR$/UNIT 1/UNIT 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/UNIT 2/UNIT 2.iml" filepath="$PROJECT_DIR$/UNIT 2/UNIT 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UNIT 3/UNIT 3.iml" filepath="$PROJECT_DIR$/UNIT 3/UNIT 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/geekbrains.iml" filepath="$PROJECT_DIR$/geekbrains.iml" />
     </modules>
   </component>
