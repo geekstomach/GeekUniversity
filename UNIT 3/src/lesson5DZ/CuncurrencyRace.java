@@ -1,0 +1,45 @@
+package lesson5DZ;
+
+
+import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.Phaser;
+
+public class CuncurrencyRace {
+
+        public static final int CARS_COUNT = 4;
+    //Создаем CountDownLatch на 4 "условия"
+    public static final CountDownLatch START = new CountDownLatch(CARS_COUNT);
+
+    //попробую использовать Phaser для решения вопроса синхронизации финиша(наверно им можно и старт синхронизировать)
+//количество участников | int parties
+    public static final CountDownLatch FINISH = new CountDownLatch(CARS_COUNT);
+
+        public static void main(String[] args) {
+            System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Подготовка!!!");
+            //создать новые препятствия
+
+            Race race = new Race(new Road(60), new Tunnel(), new Road(40));
+            Car[] cars = new Car[CARS_COUNT];
+            for (int i = 0; i < cars.length; i++) {
+                cars[i] = new Car(race, 20 + (int) (Math.random() * 10));
+            }
+            for (int i = 0; i < cars.length; i++) {
+                new Thread(cars[i]).start();
+            }
+            try {
+
+
+                START.await();
+               while (START.getCount() > CARS_COUNT) //Проверяем, собрались ли все автомобили
+                    Thread.sleep(100);          //у стартовой прямой. Если нет, ждем 100ms
+
+                System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Гонка началась!!!");
+
+                FINISH.await();
+                System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Гонка закончилась!!!");
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
